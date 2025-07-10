@@ -1,4 +1,3 @@
-=====================================
 📚 LIBRARY MANAGEMENT SYSTEM — Python Project
 ===============================================
 
@@ -7,10 +6,15 @@ It is a menu-driven command-line application that demonstrates
 the use of core Python concepts, including:
 
 ✅ Object-Oriented Programming (OOP)
+
 ✅ File handling (JSON)
+
 ✅ Python data structures: dict, list, set
+
 ✅ Functional programming tools: map, lambda
+
 ✅ Exception handling
+
 ✅ Modular, extensible design
 
 -----------------------------------------------
